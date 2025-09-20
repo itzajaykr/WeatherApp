@@ -24,7 +24,7 @@ body {
     padding: 20px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     transition: transform 0.3s ease-in-out;
-    width: 445px;
+    width: 435px;
     border-top: 10px solid blue;
     background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
     
@@ -163,4 +163,5 @@ body{
    margin:0 auto;
    padding:5px;
 }
+
 }
